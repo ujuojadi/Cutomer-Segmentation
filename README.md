@@ -1,0 +1,2 @@
+# Customer_Segmentation
+In this project, I performed an unsupervised clustering of data on the behaviour of about 9000 active credit card holders in a bank during the last 6 months. Customer segmentation is the practice of separating customers into groups that reflect similarities among customers in each cluster. I divided customers into segments to develop a targeted marketing strategy to customers with similar characteristics.
